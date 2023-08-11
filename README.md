@@ -4,7 +4,7 @@ If you use this code in your study, kindly cite the aforementioned paper.
 
 Instructions:
 
-For running the simulation: Run the main.m
+For running the simulation: Run main.m
 
 For plotting the loss function shape: Run losscompare.m
 
